@@ -3,7 +3,7 @@
 
 ## 3rd BMVI Datarun 2018
 
-* [Projektpräsentation](/blob/master/docs/bmvi-datarun-2018/bmvi-datarun-2018-fahrradwetter.pdf)
+* [Projektpräsentation](/docs/bmvi-datarun-2018/bmvi-datarun-2018-fahrradwetter.pdf)
 
 
 ## Niederschlagsdaten des DWD als Raster mit 1x1 km
@@ -27,5 +27,5 @@
 
 ### Ausgabe des RADLOAN Grids als GeoJSON
 
-* [Python Script](/blob/master/dwd/radar/grid/export-radar-grid.py)
-* [Beispiel GeoJSON](/blob/master/dwd/radar/grid/sample_grid_620_750_645_775.json)
+* [Python Script](/dwd/radar/grid/export-radar-grid.py)
+* [Beispiel GeoJSON](/dwd/radar/grid/sample_grid_620_750_645_775.json)
