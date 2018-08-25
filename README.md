@@ -29,3 +29,8 @@
 
 * [Python Script](/dwd/radar/grid/export-radar-grid.py)
 * [Beispiel GeoJSON](/dwd/radar/grid/sample_grid_620_750_645_775.json)
+
+### Ausgabe einer Vorhersage (aus RADOLAN FX) als Zeitserien in JSON
+
+* [Python Script](/dwd/radar/fx-forecast/export-forecast-timeseries.py)
+* [Beispiel JSON](/dwd/radar/fx-forecast/sample_RADOLAN_620_620.json)
